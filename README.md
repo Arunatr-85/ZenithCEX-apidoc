@@ -1,6 +1,6 @@
 # ZenithCEX API Documentation
 
-ZenithCEX API allows users to interact with HollaEx through RESTful API using any programming language.
+ZenithCEX API allows users to interact with ZenithCEX through RESTful API using any programming language.
 
 ### Prerequisites
 
